@@ -1,9 +1,9 @@
 # Hi Im Francis Cometa
-## Im interested in Web Application using latest technology
-## like django and react framework
-- 🌱 ## Curently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 ### You can reach me  @ funkiko@gmail.com
+## Im passionate in learning new technology.
+## Web Application is my field of interest.
+## I use python's bottle framework and the migty django and cool react framework
+### Curently learning react.
+### You can reach me  @ funkiko@gmail.com
 
 <!---
 funkiko82/funkiko82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
